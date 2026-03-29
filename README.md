@@ -17,4 +17,4 @@ I am passionate about transforming raw data into actionable insights and leverag
 * **AI/ML:** Prompt Engineering, exploring LLM APIs
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Click here to view my profile](www.linkedin.com/in/dhruv-rathi-52737a281)
+- **LinkedIn:**  www.linkedin.com/in/dhruv-rathi-52737a281
