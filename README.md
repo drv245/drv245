@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**drv245/drv245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Data Analyst 📊 | Future AI Data Cloud Engineer ☁️
 
-Here are some ideas to get you started:
+I am passionate about transforming raw data into actionable insights and leveraging Artificial Intelligence to solve complex business problems. Currently, I am actively building my foundational data analysis skills and learning how to integrate AI tools into data workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 I’m currently building my portfolio with real-world data projects.
+- 🌱 I’m currently learning **Python, SQL, Data Visualization, and Machine Learning basics.**
+- 🎯 My goal: Land a Data Analyst internship where I can apply AI-driven insights.
+- 💡 I love exploring how AI can automate and enhance traditional data analytics.
+
+## 🛠️ Tech Stack & Tools (Growing Every Day!)
+* **Languages:** Python, SQL
+* **Data Analysis:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn, [Add Tableau or Power BI if you plan to learn them]
+* **AI/ML:** Prompt Engineering, exploring LLM APIs
+
+## 📫 Let's Connect!
+- **LinkedIn:** [Click here to view my profile](https://linkedin.com/in/your-custom-url)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
