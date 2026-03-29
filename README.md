@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dhruv!
 
-### Aspiring AI Data Analyst 📊 | Future AI Data Cloud Engineer ☁️
+### Aspiring Data Analyst 📊 | Future AI Data Cloud Engineer ☁️
 
 I am passionate about transforming raw data into actionable insights and leveraging Artificial Intelligence to solve complex business problems. Currently, I am actively building my foundational data analysis skills and learning how to integrate AI tools into data workflows.
 
@@ -13,9 +13,8 @@ I am passionate about transforming raw data into actionable insights and leverag
 ## 🛠️ Tech Stack & Tools (Growing Every Day!)
 * **Languages:** Python, SQL
 * **Data Analysis:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn, [Add Tableau or Power BI if you plan to learn them]
+* **Data Visualization:** Matplotlib, Seaborn, Power BI.
 * **AI/ML:** Prompt Engineering, exploring LLM APIs
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [Click here to view my profile](https://linkedin.com/in/your-custom-url)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Click here to view my profile](www.linkedin.com/in/dhruv-rathi-52737a281)
